@@ -1,7 +1,7 @@
 # Xenode Labs
 
 <p align="center">
-  <img src="../assets/image.png" alt="Xenode Labs Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/xenode-in/.github/refs/heads/main/assets/image.png" alt="Xenode Labs Logo" width="120" />
 </p>
 
 <h3 align="center">
